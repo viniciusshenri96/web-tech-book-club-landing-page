@@ -1,103 +1,118 @@
-# Frontend Mentor - Tech book club landing page
+# Tech Book Club 📚💻
 
-![Design preview for the Tech book club landing page coding challenge](./preview.jpg)
+A modern and responsive landing page for a tech-focused book club, designed to connect developers and technology enthusiasts through curated books, community discussions, and exclusive events.
 
-## Welcome! 👋
+![Tech Book Club Banner](./assets/images/tech-book-club-banner.png)
 
-Thanks for purchasing this premium Frontend Mentor coding challenge.
+---
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects. These premium challenges are perfect portfolio pieces, so please feel free to use what you create in your portfolio to show others.
+## 🎯 About the Project
 
-**To do this challenge, you need a good understanding of HTML and CSS.**
+**Tech Book Club** is a responsive landing page created for a fictional community focused on technology and software development books.
 
-## The challenge
+The project presents the club's benefits, membership plans, reading journey, and community features through a clean and modern interface.
 
-Your challenge is to build out this landing page and get it looking as close to the design as possible.
+The main goal was to practice building a complete responsive landing page while focusing on layout, typography, accessibility, and responsive design.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+---
 
-Your users should be able to:
+## ✨ Features
 
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
+- 📚 Curated technology book recommendations
+- 💬 Community discussions
+- 🗓️ Virtual and in-person meetups
+- 🚀 Early access to new technology book releases
+- 🎤 Author Q&A sessions
+- 💳 Different membership plans
+- 📱 Fully responsive design
+- ♿ Accessible HTML structure
+- 🎨 Modern and clean user interface
 
-### Want some support on the challenge?
+---
 
-[Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
+## 🛠️ Technologies
 
-## Where to find everything
+- **HTML5** – Semantic page structure
+- **CSS3** – Styling, layout, animations, and responsive design
+- **JavaScript** – Interactive functionality
+- **SCSS** – Organized and maintainable stylesheets
+- **Git & GitHub** – Version control and project management
 
-Your task is to build out the project to the design file provided. You can download the Figma design file on the platform. You can download the design file on the platform. **Please be sure not to share them with anyone else.** The design download comes with a `README.md` file as well to help you get set up.
+---
 
-All the required assets for this project are in the `/assets` folder. The images are already exported for the correct screen size and optimized. Some are reusable at multiple screen sizes. So if you don't see an image in a specific folder, it will typically be in another folder for that page.
+## 📱 Responsive Design
 
-We also include variable and static font files for the required fonts for this project. You can choose to either link to Google Fonts or use the local font files to host the fonts yourself. Note that we've removed the static font files for the font weights that aren't needed for this project.
+The landing page was designed to provide a consistent experience across different screen sizes, including:
 
-The design system in the design file will give you more information about the various colors, fonts, and styles used in this project. Our fonts always come from [Google Fonts](https://fonts.google.com/).
+- Desktop
+- Laptop
+- Tablet
+- Mobile devices
 
-## Using AI coding assistants
+The layout adapts to smaller screens using responsive CSS techniques and media queries.
 
-We've included two files to help you if you're using AI coding assistants (like Claude, GitHub Copilot, Cursor, etc.) while working on this challenge:
+---
 
-- `AGENTS.md` - Contains detailed instructions for AI assistants on how to help you with this challenge. It's tailored to this challenge's difficulty level, so the AI will provide guidance appropriate to your learning stage—offering more support for beginner challenges and encouraging more independence on advanced ones.
-- `CLAUDE.md` - A pointer file that directs Claude-based tools to the AGENTS.md instructions.
+## 🚀 Live Demo
 
-**How to use them:** You don't need to do anything! These files are automatically detected by most AI coding tools. The AI will read them and adjust its behavior to be a better learning partner—guiding you toward solutions rather than just giving you the answers.
+You can view the live project here:
 
-**Note:** These files are designed to help you *learn*, not to do the work for you. The AI is instructed to ask questions, give hints, and explain concepts rather than writing complete solutions.
+**[Tech Book Club – Live Demo](https://melodious-cassata-4c4424.netlify.app/)**
 
-## Building your project
+---
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+## 📸 Preview
 
-1. Separate the `starter-code` from the rest of this project and rename it to something meaningful for you. Initialize the codebase as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/). **⚠️ IMPORTANT ⚠️: There are already a couple of `.gitignore` files in this project. Please do not remove them or change the content of the files. If you create a brand new project, please use the `.gitignore` files provided in your new codebase. This is to avoid the accidental upload of the design files to GitHub. With these premium challenges, please be sure not to share the design files in your GitHub repo. Thanks!**
-2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+The project includes several sections designed to present the Tech Book Club experience:
 
-## Deploying your project
+- Hero section
+- Community benefits
+- Reading journey
+- Membership plans
+- Customer testimonial
+- Call-to-action section
 
-As mentioned above, there are many ways to host your project for free. Our recommended hosts are:
+---
 
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
+## 📚 What I Learned
 
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://www.frontendmentor.io/guides/hosting-your-solution).
+While developing this project, I practiced and improved my knowledge of:
 
-## Create a custom `README.md`
+- Semantic HTML
+- Responsive layouts
+- CSS Grid and Flexbox
+- SCSS organization
+- Media queries
+- Typography and spacing
+- Responsive images
+- Accessibility
+- Component-like CSS organization
+- Building landing pages from a design
 
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
+This project was also an opportunity to improve my attention to detail when reproducing a professional interface from a design.
 
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
+---
 
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
+## 💻 Getting Started
 
-## Submitting your solution
+To run the project locally, clone the repository:
 
-Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://www.frontendmentor.io/guides/how-to-submit-solutions) for tips on how to do this.
+```bash
+git clone https://github.com/your-username/tech-book-club.git
+```
 
-Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
+Navigate to the project directory:
 
-**⚠️ IMPORTANT ⚠️: With these premium challenges, please be sure not to upload the design files to GitHub when you're submitting to the platform and sharing it around. If you've created a brand new project, the easiest way to do that is to copy across the `.gitignore` provided in this starter project.**
+```bash
+cd tech-book-club
+```
 
-## Sharing your solution
+Then open the `index.html` file in your browser.
 
-There are multiple places you can share your solution:
+---
 
-1. Share your solution page in the **#finished-projects** channel of our [community](https://www.frontendmentor.io/community). 
-2. Share on [X (formerly Twitter)](https://x.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in your post. We'd love to take a look at what you've built and help share it around.
-3. Share your solution on [LinkedIn](https://www.linkedin.com/company/frontend-mentor/).
-4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
+## 👨‍💻 Author
 
-We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
+Developed by **Vinicius Henrique**.
 
-The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
-
-## Got feedback for us?
-
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
-
-**Have fun building!** 🚀
+If you enjoyed the project, feel free to ⭐ the repository!

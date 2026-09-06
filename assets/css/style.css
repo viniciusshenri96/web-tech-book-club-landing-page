@@ -505,7 +505,6 @@ h6 {
   display: grid;
   justify-items: start;
   padding: 40px 24px;
-  /* height: 390px; */
 }
 
 .membership__padding {
@@ -547,6 +546,8 @@ h6 {
   padding: 20px 60px;
 }
 
+/* ========== QUOTE ==========*/
+
 .quote {
   max-width: 970px;
   margin: 0 auto;
@@ -569,6 +570,8 @@ h6 {
 .quote__name {
   color: var(--color-neutral-700);
 }
+
+/* ========== FOOTER ==========*/
 
 .footer {
   max-width: 100%;
@@ -599,6 +602,11 @@ h6 {
 .footer__btn:hover {
   background: linear-gradient(to right, #385159 0%, #062630 100%);
   transform: scale(1.1);
+}
+
+.footer__btn:focus-visible {
+  outline: 3px inset var(--color-light-salmon-100);
+  outline-offset: 4px;
 }
 
 .footer__copyright {
@@ -632,7 +640,12 @@ h6 {
   fill: var(--color-neutral-700);
 }
 
-@media (max-width: 1100px) {
+.section--hidden {
+  opacity: 0;
+  transform: translateY(8rem);
+}
+
+@media (max-width: 68.75em) {
   .container {
     margin: 0 32px;
   }
@@ -729,7 +742,7 @@ h6 {
   }
 }
 
-@media (max-width: 730px) {
+@media (max-width: 45.625em) {
   .header {
     padding: 0;
     padding-top: 24px;
@@ -844,9 +857,4 @@ h6 {
     top: 0;
     left: 16px;
   }
-}
-
-.section--hidden {
-  opacity: 0;
-  transform: translateY(8rem);
 }
