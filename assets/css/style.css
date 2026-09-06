@@ -227,6 +227,10 @@ h6 {
 .container {
   max-width: 73.125rem;
   margin: 0 auto;
+
+  transition:
+    transform 1s,
+    opacity 1s;
 }
 
 /* ========== HERO ==========*/
@@ -840,4 +844,9 @@ h6 {
     top: 0;
     left: 16px;
   }
+}
+
+.section--hidden {
+  opacity: 0;
+  transform: translateY(8rem);
 }
