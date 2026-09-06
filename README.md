@@ -35,7 +35,6 @@ The main goal was to practice building a complete responsive landing page while 
 - **HTML5** – Semantic page structure
 - **CSS3** – Styling, layout, animations, and responsive design
 - **JavaScript** – Interactive functionality
-- **SCSS** – Organized and maintainable stylesheets
 - **Git & GitHub** – Version control and project management
 
 ---
@@ -57,7 +56,7 @@ The layout adapts to smaller screens using responsive CSS techniques and media q
 
 You can view the live project here:
 
-**[Tech Book Club – Live Demo](https://melodious-cassata-4c4424.netlify.app/)**
+**[Tech Book Club – Live Demo](https://vinicius-tech-book-club.netlify.app/)**
 
 ---
 
@@ -81,7 +80,6 @@ While developing this project, I practiced and improved my knowledge of:
 - Semantic HTML
 - Responsive layouts
 - CSS Grid and Flexbox
-- SCSS organization
 - Media queries
 - Typography and spacing
 - Responsive images
@@ -93,7 +91,7 @@ This project was also an opportunity to improve my attention to detail when repr
 
 ---
 
-## 💻 Getting Started
+<!-- ## 💻 Getting Started
 
 To run the project locally, clone the repository:
 
@@ -109,7 +107,7 @@ cd tech-book-club
 
 Then open the `index.html` file in your browser.
 
----
+--- -->
 
 ## 👨‍💻 Author
 
